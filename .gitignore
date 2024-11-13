@@ -51,6 +51,7 @@ SourceArt/**/*.tga
 
 # Ignore all contents of AnimationPak
 /Content/AnimationPak/*
+/Content/BossAIToolkit/*
 
 # Builds
 /Build/
